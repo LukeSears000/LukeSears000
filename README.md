@@ -1,5 +1,5 @@
 # Hello, I'm Luke
-<a href="https://www.linkedin.com/in/luke-sears-02842323a/?trk=opento_sprofile_details"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/lukesears000/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a recent graduate with a passion for technology, and I am eager to transition into cybersecurity. I am driven by solving complex problems and continuously learning new skills to protect and secure digital systems.
 
